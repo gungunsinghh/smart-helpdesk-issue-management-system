@@ -51,3 +51,6 @@ Smart Helpdesk & Issue Management System/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+```
+### screenshot of dashboard
+<img width="1568" height="882" alt="image-1" src="https://github.com/user-attachments/assets/bf4b4ec5-2569-4ec0-a50c-4e644ed0bbd2" />
